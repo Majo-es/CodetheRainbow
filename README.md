@@ -1,4 +1,4 @@
-# CodetheRainbow
+# CodetheRainbow 🌈
 This code lets you write a sentence and displays it with each letter in a different rainbow color!
 
 ## Features:
